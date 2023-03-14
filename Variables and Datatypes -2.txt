@@ -1,0 +1,82 @@
+Datatypes in C:-
+
+Without point--integer-- int-56,78
+
+
+with point-- float-- float--12.89-- Store upto 6 digits
+
+double-- double-- 78.1234
+
+character-- char -- A to Z 
+
+Access Specifiers:-
+
+int- %d or %i
+
+float- %f
+
+double- %lf
+
+character- %c
+
+Variables:-
+
+To store a value 
+
+a=65
+manav=78
+
+
+Rules of Variables:-
+
+1) Variables Should not contain keywords:-
+
+int,float x
+
+2) Variables should not contain white spaces:-
+
+no of balls x
+no_of_balls
+
+3) Variables do not start with numbers:-
+
+1num x
+num1
+
+4) Variables must start with a-z or A-Z.
+a=45
+manav=54
+
+a*b
+a/b
+a%b
+
+
+static value
+
+dynamic value-- user input
+
+scanf()-- User Input or dynamic value
+
+
+Task:- Write a program to make addition, subtraction,multiplication of
+three numbers using user input(Dynamic Value).
+
+Task:- Write a program to find a square of a number using user input value.
+
+Task:- Write a program to find a cube of a number using user input value.
+
+
+square-- a*a
+cubbe-- a*a*a
+
+
+Vidit,Dipak,Vansh,Rishika,Yash,Devang
+
+
+
+
+
+
+
+
