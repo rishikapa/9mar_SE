@@ -1,0 +1,40 @@
+diff between union structure
+
+
+ It is used to store diffrent types of datatype declared.
+
+structure:
+		sturcture can store multile value of data type.
+ 
+Diffrence between structure and union:
+
+--> structure:-- total size of  data type declared
+--> union :--  largest data type decalred 
+--> total size of union 20 byts
+
+syntax:-
+
+ 	union union-name
+	{
+		datatype1 var1,var2,vaar3;
+		datatype2 var4,var5	
+	};
+	main()
+     {
+		union-name varName;
+		varname.var1  // to acess union name
+     }
+structure syntax:-
+
+ 	sturct sturcture-name
+	{
+		datatype1 var1,var2,vaar3;
+		datatype2 var4,var5	
+	};
+	main()
+     {
+		structure-name varName;
+		varname.var1  // to acess sturcture name
+     }
+
+
